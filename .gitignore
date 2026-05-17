@@ -25,3 +25,4 @@ logs/
 
 # Claude Code
 .claude/settings.local.json
+.claude/SKILL.md
